@@ -12,6 +12,8 @@
 
 **20_Newsgroup Dataset :** https://www.kaggle.com/crawford/20-newsgroups
 
+**Amazon_Food_reviews Dataset:** https://www.kaggle.com/snap/amazon-fine-food-reviews
+
 **Anvil for UI :** https://anvil.works/articles/python-gui-builder-web
 
 **Topic Clustering:** https://www.kaggle.com/d4v1d3/cord-19-lda-topic-modeling-reccomendation-system
