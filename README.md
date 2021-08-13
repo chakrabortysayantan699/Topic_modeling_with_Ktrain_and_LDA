@@ -32,9 +32,11 @@
 
 
 ## Reference :
-[kgptakie](https://kgptalkie.com/category/natural-language-processing-nlp/)
-[kaggle](https://www.kaggle.com/canggih/topic-modeling)
-[K-means](https://www.kaggle.com/thebrownviking20/k-means-clustering-of-1-million-headlines)
+1.[kgptakie](https://kgptalkie.com/category/natural-language-processing-nlp/)
+
+2.[kaggle](https://www.kaggle.com/canggih/topic-modeling)
+
+3.[K-means](https://www.kaggle.com/thebrownviking20/k-means-clustering-of-1-million-headlines)
 
 | **status**|
 |-----------|
