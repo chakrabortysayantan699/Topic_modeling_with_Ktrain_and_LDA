@@ -31,7 +31,10 @@
 <img src='./Visualization/bokeh_plot.png'>
 
 
-
+## Reference :
+[kgptakie](https://kgptalkie.com/category/natural-language-processing-nlp/)
+[kaggle](https://www.kaggle.com/canggih/topic-modeling)
+[K-means](https://www.kaggle.com/thebrownviking20/k-means-clustering-of-1-million-headlines)
 
 | **status**|
 |-----------|
