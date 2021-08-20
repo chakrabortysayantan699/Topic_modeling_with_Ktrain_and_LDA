@@ -7,7 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/13mqLohj8MyOuclVuRn8fYw31KgxcA3qz
 """
 
-!pip install ktrain
+#for instaaling ktrain
+#!pip install ktrain
 
 #import libaries 
 import os
