@@ -38,6 +38,4 @@
 
 3.[K-means](https://www.kaggle.com/thebrownviking20/k-means-clustering-of-1-million-headlines)
 
-| **status**|
-|-----------|
-|in progress|
+
